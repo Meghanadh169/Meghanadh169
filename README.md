@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on Full Stack Java projects, Blockchain-based applications, and strengthening my problem-solving skills through LeetCode.<br><br>👯 I’m looking to collaborate on Java, Spring Boot, React.js, and open-source development projects.<br><br>🤝 I’m looking for help with System Design, Cloud Technologies (AWS), and scalable software development practices.<br><br>🌱 I’m currently learning Advanced Data Structures & Algorithms, Spring Boot Microservices, AWS, and Software Design Patterns.<br><br>💬 Ask me about Java, DSA, Spring Boot, React.js, REST APIs, Git & GitHub, and Problem Solving.<br><br>⚡ Fun fact: I enjoy solving LeetCode problems daily and maintaining a GitHub repository to track my coding journey and continuous learning.
 
 
